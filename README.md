@@ -1,2 +1,4 @@
-# Hi-
-the hi project
+# Hi Humans!
+This is just to test the Git capabilities...
+
+Stay thirsty my friends!!!....
